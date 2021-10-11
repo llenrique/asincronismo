@@ -1,0 +1,30 @@
+# Asyncronism
+
+Js Es un lenguaje de programacion asincrono y no bloqueante con un manejador de eventos conocido como el event loop implementado en un unico hilo para sus interfaces de entrada y de salida.
+
+Asincronismo es la accion que no ocurre al mismo tiempo.
+
+
+--------------Evenloop---------------
+
+M
+E
+M
+O
+R
+H
+E
+A
+P
+
+
+---->input----------->output--------->
+
+-------------thread-------------------
+
+
+Principales estructuras para manejar el asincronismo
+
+Promesas
+Callbacks
+Async/Await
